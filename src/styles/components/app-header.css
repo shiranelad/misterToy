@@ -1,0 +1,12 @@
+.app-header {
+    height:60px;
+    background-color: var(--clr1);
+    color: var(--clr2);
+    padding: 20px;
+}
+
+.app-header>nav>a{
+    margin: 10px;
+    color: var(--clr2);
+    text-decoration: unset;
+}
